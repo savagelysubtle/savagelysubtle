@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&duration=3000&pause=600&color=8B5CF6&font=Fira+Code&lines=AiChemist+Codex;Turning+%F0%9F%93%9C+%E2%9E%A1%EF%B8%8F+%F0%9F%8C%8E;Automation+Alchemy+since+2023" alt="Typing SVG">
 </p>
 
+
+
 <div align="center">
 
 ## 💰 Support the Laboratory
